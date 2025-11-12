@@ -1,2 +1,9 @@
-reset
+ILOVEADS
+yes_ads
+IHATEADS
+no_ads
+MEDEV
+unlock
+MEUSER
+lock
 test
